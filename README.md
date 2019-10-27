@@ -9,7 +9,7 @@ Include paths to QuaDRiGa's "quadriga_src" and "quadriga_src\config" folders
 Should include path to HybridPrecodingExample folder
 
 ## License:
-This code is licensed under the GPLv2 license.
+This code is licensed under the GPLv3 license.
 
 ## Software and Hardware Requirements
 The code was written to be used in Matlab and has been tested using Matlab 2018b on Academic License . Some of the scripts and functions might also work in Octave, but there is no guarantee of compatibility.
