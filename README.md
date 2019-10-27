@@ -5,8 +5,8 @@ Simulation parameters are described and defined in HetNet_5GNR_simulation_launch
 
 ## Configuration of Matlab's search path:
 Should include folders added by cvx_setup script (see documentation for installation of CVX)
-Include paths to QuaDRiGa's "quadriga_src" and "quadriga_src\config" folders (which are located in \Code\QuaDriGa_2017.08.01_v2.0.0-664\)
-Should include path to HybridPrecodingExample folder (which is located in \Code\)
+Include paths to QuaDRiGa's "quadriga_src" and "quadriga_src\config" folders
+Should include path to HybridPrecodingExample folder
 
 ## License:
 This code is licensed under the GPLv2 license.
