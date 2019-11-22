@@ -2,7 +2,7 @@
 %simulation including sub-6 layer of macro cells and above-6(mmW) layer 
 %of small cells with CSI acquisition design.
 %
-%License: This code is licensed under the GPLv2 license.
+%License: This code is licensed under the GPLv3 license.
 %
 %Script is based on the reference code from the following monograph:
 %Emil Bjornson, Jakob Hoydis and Luca Sanguinetti (2017), 
